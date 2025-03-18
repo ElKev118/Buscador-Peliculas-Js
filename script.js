@@ -1,5 +1,5 @@
 document.getElementById("searchButton").addEventListener("click", searchMovies);
-let api_key = "21a75706a0a6d9fa488fb384dbe6e364";
+let api_key = "api_key";
 let urlBase = "https://api.themoviedb.org/3/search/movie";
 let urlImg = "https://image.tmdb.org/t/p/w200";
 
